@@ -20,3 +20,6 @@ in character-class `(` `)` `|` is not metacharacter
 `+` 出一次或多次
 
 `*` 出现任意次包括不出现
+
+# 分组：
+捕获组即普通组，用(bar)扩起来，如果想让组为非捕获组，则需要使用(?:bar)
